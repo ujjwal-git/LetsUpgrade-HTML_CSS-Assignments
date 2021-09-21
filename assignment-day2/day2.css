@@ -1,0 +1,26 @@
+.one{
+    height: auto;
+    width: auto;
+    background-color: aqua;
+    padding: 20px;
+    border: blue;
+    border-width: 10px;
+    display: inline-block;
+}
+.first{
+    height: 150px;
+    width: 200px;
+    background-color: crimson;
+}
+.second{
+    height: 150px;
+    width: 200px;
+    background-color: darkgoldenrod;
+    border: darkred;
+    border-radius: 5px;
+}
+.third{
+    height: 150px;
+    width: 200px;
+    background-color: darkgreen;
+}
